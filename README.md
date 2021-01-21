@@ -1,1 +1,1 @@
-"# helpfulJavascript" 
+# helpfulJavascript
