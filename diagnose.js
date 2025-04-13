@@ -1,6 +1,5 @@
-// smtp-diagnostic.js
-// Run with: node smtp-diagnostic.js
-
+// diagnostic.js
+// Run with: node diagnostic.js
 const nodemailer = require('nodemailer');
 const net = require('net');
 const path = require('path');
